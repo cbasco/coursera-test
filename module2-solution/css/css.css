@@ -1,20 +1,16 @@
 * {
 	box-sizing: border-box;
 }
-
 body {
 	margin: 0 5% 0 5%;
 }
-
 .row {
 	width: 100%;
 }
-
 h1.menu {
 	text-align: center;
 	font-family: Verdana, Georgia, Serif;
 }
-
 /**** Browser Version ****/
 @media (min-width: 992px)  {
 	#div1 {
@@ -38,7 +34,6 @@ h1.menu {
 		width: 48%;
 		float: left;
 		margin-right: 2%;
-
 	}
 	#div2 {
 		width: 48%;
@@ -49,8 +44,6 @@ h1.menu {
 	#div3 {
 		clear: left;
 		width: 100%;
-		
-
 	}
 }
 /**** Mobile Version ****/
@@ -72,25 +65,19 @@ h1.menu {
 	border: 1px solid;
 	background-color: #bf00ff;
 	position: relative;
-
 }
-
 #div2 {
 	border: 1px solid;
 	background-color: #bf00ff;
-	position: relative;
-	
+	position: relative;	
 }
-
 #div3 {
 	border: 1px solid;
 	background-color: #bf00ff;
 	position: relative;
 	
 }
-
 div.h4 {
-	margin: 0;
 	position: relative;
 	top: 0;
  	left: 70%;
@@ -99,14 +86,12 @@ div.h4 {
  	width: 30%;
  	padding: 0;
 }
-
 h4 {
 	font-family: Verdana, Georgia, Serif;
 	text-align: center;
 	margin: 3%;
 	color: #ffffff;
 }
-
 p {
 	margin-top: 1%;
 	padding: 10px;
