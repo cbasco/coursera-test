@@ -1,0 +1,49 @@
+#header-nav {
+	background-color: #999999;
+	border-radius: 0;
+	border-width: 2px;
+	border-color: #000000;
+}
+
+div.container-fluid {
+	height: 100px;
+}
+
+h1 {
+	color:#000000;
+}
+
+p.text-center {
+	font-size: 30px;
+}
+
+li {
+	background-color: #cccccc;
+	text-align: center;
+
+}
+	
+/**
+#nav-list {
+	margin-top:10pxS;
+}
+
+#nav-list a{
+	color:#000000;
+	text-align: center;
+}
+
+#nav-list a:hover{
+	background: #E7E7E7;
+}
+**/
+div.jumbotron {
+	margin-right: 2%;
+	margin-left: 2%;
+	background-color: #999999;
+	height: 600px;
+}
+
+p.text-center {
+	font-size: 50px;
+}
